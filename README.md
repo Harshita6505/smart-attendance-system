@@ -73,7 +73,15 @@ Name, Date, Time, Subject
 
 Example:
 Harshita_Grover,2026-03-09,22:06:28,AIML
+## Screenshots
 
+### Attendance Marked in Terminal
+
+![Terminal Output](images/terminal_output.png)
+
+### Attendance CSV File
+
+![CSV Output](images/attendance_csv.png)
 
 Sensitive biometric data such as:
 • Face images

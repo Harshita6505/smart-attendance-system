@@ -1,6 +1,27 @@
-venv/
+# Ignore dataset (face images)
+dataset/
+
+# Ignore trained encodings
+encodings/
+
+# Ignore attendance records
+attendance/
+
+# Ignore Excel exports
+*.xlsx
+*.csv
+
+# Ignore Python cache
 __pycache__/
 *.pyc
-dataset/
-encodings/*.pkl
-attendance/*.csv
+
+# Ignore virtual environment
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/

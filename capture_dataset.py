@@ -1,7 +1,7 @@
 import cv2
 import os
 
-person_name = input("Enter person name (use underscore, e.g. Simran_Grover): ").strip()
+person_name = input("Enter person name (use underscore, e.g. john_doe): ").strip()
 save_path = os.path.join("dataset", person_name)
 
 max_images = 25
